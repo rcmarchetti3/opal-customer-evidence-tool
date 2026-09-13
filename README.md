@@ -2,7 +2,7 @@
 
 A custom Opal tool that pulls a closed-won deal from Salesforce so an agent workflow can build a customer case study from real CRM data instead of asking sales for it.
 
-Built for the Optimizely FDE take-home. Part of the **Case Study Pipeline** workflow in Opal: Win Researcher → (condition) → Story Writer → Asset Producer, with Approval Requester and Not Found Notifier on the other branches.
+Built as the data layer for a **Case Study Pipeline** workflow in Opal: Win Researcher → (condition) → Story Writer → Asset Producer, with Approval Requester and Not Found Notifier on the other branches.
 
 ## Tool
 
